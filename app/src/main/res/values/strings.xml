@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Find My IP</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="welcome_text">Hello, \nWelcome!</string>
+    <string name="ip_address">IP Address</string>
+    <string name="latitude_text">Latitude</string>
+    <string name="longitude_text">Longitude</string>
+    <string name="address_text">Address</string>
+    <string name="postal_code_text">Postal Code</string>
+    <string name="time_zone_text">Time Zone</string>
+    <string name="currency_text">Currency</string>
+
+</resources>
